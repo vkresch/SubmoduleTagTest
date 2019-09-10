@@ -1,3 +1,11 @@
+---
+name: Feature request
+about: Creating a pull request
+title: ''
+assignees: ''
+
+---
+
 **Reference to a related issue in the repository.**
 Add a reference to a related issue in the repository.
 
